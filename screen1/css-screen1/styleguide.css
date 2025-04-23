@@ -1,0 +1,13 @@
+:root {
+  --primary: rgba(21, 117, 239, 1);
+  --blackish: rgba(29, 27, 32, 1);
+  --secondary-text: rgba(98, 91, 113, 1);
+  --skywhite: rgba(255, 255, 255, 1);
+  --inkdarkest: rgba(9, 10, 10, 1);
+  --regular-none-medium-font-family: "Inter", Helvetica;
+  --regular-none-medium-font-weight: 500;
+  --regular-none-medium-font-size: 16px;
+  --regular-none-medium-letter-spacing: 0px;
+  --regular-none-medium-line-height: 16px;
+  --regular-none-medium-font-style: normal;
+}
